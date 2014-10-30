@@ -40,7 +40,6 @@ local.properties
 *.suo
 *.user
 *.sln.docstates
-_vti_cnf/
 
 # Build results
 
@@ -142,7 +141,6 @@ csx
 AppPackages/
 
 # Others
-sql/
 *.Cache
 ClientBin/
 [Ss]tyle[Cc]op.*
@@ -152,6 +150,7 @@ ClientBin/
 *.[Pp]ublish.xml
 *.pfx
 *.publishsettings
+_vti_cnf/
 
 # RIA/Silverlight projects
 Generated_Code/
@@ -159,7 +158,6 @@ Generated_Code/
 # Backup & report files from converting an old project file to a newer
 # Visual Studio version. Backup files are not needed, because we have git ;-)
 _UpgradeReport_Files/
-Backup*/
 UpgradeLog*.XML
 UpgradeLog*.htm
 
