@@ -1,0 +1,181 @@
+﻿body {
+padding:10px;
+	background-color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #808080;
+}
+
+form {
+	margin: 0;
+	padding: 0;
+}
+
+fieldset {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+
+h3 {
+	text-transform: lowercase;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #E6E6E6;
+}
+
+h2 {
+	text-transform: lowercase;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #E6E6E6;
+}
+
+h1 {
+	text-transform: lowercase;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #E6E6E6;
+}
+
+h1 {
+	letter-spacing: -1px;
+	font-size: 2.4em;
+}
+
+h2 {
+	font-size: 1.8em;
+}
+
+h3 {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+ol {
+	margin-bottom: 1.6em;
+	line-height: 180%;
+}
+
+ul {
+	margin-bottom: 1.6em;
+	line-height: 180%;
+}
+
+p {
+	margin-bottom: 1.6em;
+	line-height: 180%;
+}
+
+p#close3 {
+	text-align: right;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+ul {
+}
+
+ol {
+}
+
+a {
+	color: #FA9C39;
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+small {
+}
+
+hr {
+	display: none;
+}
+
+img {
+	border: none;
+}
+
+img.left {
+	float: left;
+	margin: 0 15px 0 0;
+}
+
+img.right {
+	float: left;
+	margin: 0 0 0 15px;
+}
+textarea {
+	font-family:Arial, Helvetica, Sans-Serif;
+	background-color:#E0F3B8;
+	border-color:#BBD288;
+}
+
+#page {
+	width: 980px;
+	margin: 0 auto;
+	padding: 90px 0;
+}
+
+#themen {
+	margin-left:10px;
+	margin-top:5px;
+	line-height:1.5;
+}
+#themen img {
+	padding-right:5px;
+	vertical-align:middle;
+}
+#themen a {
+	padding-left:10px;
+	background:black url('images/img05.gif') no-repeat scroll left center;
+}
+table {
+	font-size:13px;
+}
+#anzeige {
+	border-left-width:2px;
+	border-left-style:solid;
+	vertical-align:top;
+}
+#ganzes {
+	height:400px;
+	overflow:auto;
+scrollbar-face-color: #E0F3B8;
+scrollbar-highlight-color: #FBFEF5;
+scrollbar-3dlight-color: #BBD288;
+scrollbar-darkshadow-color: #688031;
+scrollbar-shadow-color: #7E9B3C;
+scrollbar-arrow-color: #000000;
+scrollbar-track-color: #000000;
+padding:5px;
+}
+#close {
+	height:15px;
+	cursor:pointer;
+}
+#close2 {
+	cursor:pointer;
+	text-decoration:underline;
+	color: #FA9C39;
+}
+#close2:hover {
+	text-decoration:none;
+}
+table td {
+	padding:5px;
+	vertical-align:top;
+}
+input {
+	background-color:#E0F3B8;
+	border-color:#BBD288;
+}
+select {
+	background-color:#E0F3B8;
+}
